@@ -1,7 +1,7 @@
 # ChessSimulator
 
-Chess simulator project from MacEwan Computer Science 330 midterm
-Made with Unity
+Chess simulator project from MacEwan Computer Science 330 midterm.
+Made with Unity.
 
 TODO
 - Clean code
